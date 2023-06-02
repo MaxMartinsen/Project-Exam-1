@@ -64,6 +64,8 @@ The project has two aspects:
 - API from WordPress installation
 - Website built using HTML, CSS and JavaScript
 
+---
+
 ### Built With
 
 This project was build using:
@@ -83,6 +85,8 @@ This project was build using:
 - About
 - Contact
 
+---
+
 ## Getting Started
 
 ### Installing
@@ -101,6 +105,8 @@ This project is built using the WordPress API and WordPress CMS, which makes it 
 ## Contributing
 
 As this being a school project, it is not open for contributions.
+
+---
 
 ## Contact
 
