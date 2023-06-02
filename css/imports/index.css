@@ -1,0 +1,50 @@
+/*- section__top -*/
+
+.top {
+  position: relative;
+    color: var(--white);
+    text-align: center;
+    padding-top: 50px;
+    background-color: var(--black);
+  }
+
+  .top img {
+    max-width: 100%;
+  }
+  .top__inner {
+    position: absolute;
+    padding-top: calc(min(10vw, 187px));
+    z-index: 5;
+    left: 0;
+    right: 0;
+    top: 0;
+  }
+  .title {
+    font-weight: 400;
+    font-size: calc(min(6vw, 96px));;
+    line-height: calc(min(7vw, 108px));
+  }
+  .top__link {
+    background-color: var(--black);
+    padding: calc(min(1.6vw, 25px));
+    max-width: calc(min(26vw, 430px));
+    width: 100%;
+    display: inline-block;
+    text-transform: uppercase;
+    border: 1px solid var(--white);
+  }
+  
+  /*- section__latest-posts -*/
+  
+  .latest-posts {
+    margin-bottom: 50px;
+  }
+
+  .latest-post__title h2 {
+    margin-bottom: 21px;
+  }
+  
+  .latest-post__title p {
+    max-width: 580px;
+    margin: 0 auto;
+  }

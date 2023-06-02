@@ -1,0 +1,98 @@
+:root {
+  --black: #151515;
+  --white: #ffffff;
+  --grey:#EBEBEB;
+  --lightgrey:#c7c7c7;
+  --red:#DB1313;
+}
+
+
+/*- fonts -*/
+body {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 130%;
+  color: var(--black);
+  background-color: var(--white);
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 36px;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: calc(min(9vw, 48px));
+  line-height: calc(min(8.5vw, 57px));
+}
+
+h3,
+.tabs__btn,
+.popup__button {
+  font-weight: 700;
+  font-size: calc(min(4.5vw, 22px));
+  line-height: calc(min(5.5vw, 18px));
+}
+
+nav {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 13px;
+}
+
+.footer__text {
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.025em;
+}
+.footer__text span {
+  font-weight: 700;
+}
+
+.top__link {
+  font-weight: 700;
+  font-size: calc(min(2.250vw, 36px));
+  line-height: calc(min(2.6vw, 41px));
+}
+
+/*- bootstrap -*/
+
+.menu__link:hover,
+.menu__link.active {
+  background-color: var(--lightgrey);
+}
+
+.tabs__btn {
+  text-decoration: underline;
+  text-underline-offset: 7px;
+  text-decoration-thickness: 3px;
+  text-decoration-color: var(--lightgrey);
+}
+
+.tabs__btn:hover,
+.tabs__btn.active, 
+.footer__menu__list-link:hover,
+.footer__menu__list-link.active {
+  text-decoration: underline;
+  text-underline-offset: 7px;
+  text-decoration-thickness: 3px;
+}
+
+.none {
+  display: none;
+}
+
+.margin70 {
+  margin-bottom: 70px;
+}
+
+h1,
+h2,
+h3,
+p {
+  cursor: context-menu;
+}
