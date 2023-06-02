@@ -100,7 +100,7 @@ git clone git@github.com:MaxMartinsen/Project-Exam-1.git
 
 ### Running
 
-This project is built using the WordPress API and WordPress CMS, which makes it compatible across devices. To access the site, simply navigate to the root directory of this WordPress installation. Your content will be dynamically loaded and displayed via the WordPress API when you visit the site in a browser.
+This project is built using the WordPress API and WordPress CMS, making it cross-device compatible. To access the site, simply navigate to the root directory. Your content will be dynamically loaded and displayed via the WordPress API when you visit the site in a browser.
 
 ## Contributing
 
