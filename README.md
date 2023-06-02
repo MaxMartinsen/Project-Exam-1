@@ -5,7 +5,7 @@
   <img src="https://github.com/MaxMartinsen/Project-Exam-1/blob/main/assets/image_landing/logo_tech.svg" width="600" height="300"/>
 </div>
 
-The tech blog serves as an online platform focusing on car tips, offering users valuable insights on car maintenance.
+The tech blog serves as an online platform dedicated to automotive advice, offering users valuable information about car maintenance.
 
 ---
 
