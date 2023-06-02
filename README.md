@@ -67,7 +67,9 @@ Note that this is an exam, and therefore tutor support will be limited as per th
 # TECH blog
 ## Project Exam 1
 
+<div id="logo" algin="center">
 ![TECH logo](https://github.com/MaxMartinsen/Project-Exam-1/blob/main/assets/image_landing/logo_tech.svg)
+</div>
 
 GameHub is an online shop where users can purchase computer games. This gaming marketplace lets you buy tons of video games online for any device.
 
